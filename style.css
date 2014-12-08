@@ -1,0 +1,13 @@
+.new {
+	position: relative;
+	height: 120px;
+	width: 80%;
+	border: 2px solid #0078A3;
+	border-radius: 5px;
+}
+
+.new img {
+	position: absolute;
+	right: -4px;
+	top: -4px;
+}
